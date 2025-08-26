@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/ai-uses/","tags":["ai"],"created":"2025-08-26T19:44:33.459+01:00","updated":"2025-08-26T19:45:03.289+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/ai-uses/","tags":["ai"],"updated":"2025-08-26T19:45:03.289+01:00"}
 ---
 
 Before we dive into trying to make AI work better, here are some of the things I think AI does quite well.

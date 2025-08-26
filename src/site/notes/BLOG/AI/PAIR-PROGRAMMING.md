@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/pair-programming/","created":"2025-08-26T19:44:02.574+01:00","updated":"2025-08-26T19:44:20.776+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/pair-programming/","updated":"2025-08-26T19:44:20.776+01:00"}
 ---
 
 The future of AI-assisted software engineering is not writing code; it's pair programming.

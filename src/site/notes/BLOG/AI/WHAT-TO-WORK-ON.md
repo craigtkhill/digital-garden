@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/what-to-work-on/","created":"2025-08-26T19:45:21.733+01:00","updated":"2025-08-26T19:45:33.705+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/what-to-work-on/","updated":"2025-08-26T19:45:33.705+01:00"}
 ---
 
 # What you should work on

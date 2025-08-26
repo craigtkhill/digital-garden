@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten/time-context-category-hierarchy/","created":"2025-08-26T19:47:11.070+01:00","updated":"2025-08-26T19:47:15.354+01:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten/time-context-category-hierarchy/","updated":"2025-08-26T19:47:15.354+01:00"}
 ---
 
 # Time-Context-Category-Hierarchy

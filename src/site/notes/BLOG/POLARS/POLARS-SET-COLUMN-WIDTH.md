@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/polars/polars-set-column-width/","created":"2025-08-26T19:45:49.468+01:00","updated":"2025-08-26T19:46:02.549+01:00"}
+{"dg-publish":true,"permalink":"/blog/polars/polars-set-column-width/","updated":"2025-08-26T19:46:02.549+01:00"}
 ---
 
 # How to widen a column of text in Polars

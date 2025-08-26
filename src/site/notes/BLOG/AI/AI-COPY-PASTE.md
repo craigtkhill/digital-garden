@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/ai-copy-paste/","created":"2025-08-26T19:38:09.223+01:00","updated":"2025-08-26T19:38:19.396+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/ai-copy-paste/","updated":"2025-08-26T19:38:19.396+01:00"}
 ---
 
 The number one slop stopper is to stop copy/pasting code.

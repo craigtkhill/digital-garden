@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/limit-ai/","created":"2025-08-26T19:43:40.061+01:00","updated":"2025-08-26T19:43:47.625+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/limit-ai/","updated":"2025-08-26T19:43:47.625+01:00"}
 ---
 
 # Limitations are good

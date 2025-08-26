@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/ai-harms/","created":"2025-08-26T19:38:31.977+01:00","updated":"2025-08-26T19:38:47.665+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/ai-harms/","updated":"2025-08-26T19:38:47.665+01:00"}
 ---
 
 AI has some benefits. However, by my count, its harms are significantly more numerous.

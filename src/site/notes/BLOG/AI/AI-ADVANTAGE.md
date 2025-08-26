@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/ai-advantage/","tags":["to_refactor","ai"],"created":"2025-08-26T19:36:43.972+01:00","updated":"2025-08-26T19:37:06.626+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/ai-advantage/","tags":["to_refactor","ai"],"updated":"2025-08-26T19:37:06.626+01:00"}
 ---
 
 # Advantage in an AI world
