@@ -250,25 +250,17 @@ module.exports = function (eleventyConfig) {
       md.renderer.rules.link_open = function (tokens, idx, options, env, self) {
         const aIndex = tokens[idx].attrIndex("target");
         const classIndex = tokens[idx].attrIndex("class");
-        const hrefIndex = tokens[idx].attrIndex("href");
-        
-        // Check if the link is external
-        const href = hrefIndex >= 0 ? tokens[idx].attrs[hrefIndex][1] : "";
-        const isExternal = href && (href.startsWith("http://") || href.startsWith("https://") || href.startsWith("//"));
 
-        // Only set target="_blank" for external links
-        if (isExternal) {
-          if (aIndex < 0) {
-            tokens[idx].attrPush(["target", "_blank"]);
-          } else {
-            tokens[idx].attrs[aIndex][1] = "_blank";
-          }
+        if (aIndex < 0) {
+          tokens[idx].attrPush(["target", "_blank"]);
+        } else {
+          tokens[idx].attrs[aIndex][1] = "_blank";
         }
 
         if (classIndex < 0) {
-          tokens[idx].attrPush(["class", isExternal ? "external-link" : "internal-link"]);
+          tokens[idx].attrPush(["class", "external-link"]);
         } else {
-          tokens[idx].attrs[classIndex][1] = isExternal ? "external-link" : "internal-link";
+          tokens[idx].attrs[classIndex][1] = "external-link";
         }
 
         return defaultLinkRule(tokens, idx, options, env, self);
