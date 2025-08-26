@@ -22,3 +22,4 @@ github = "github.com/craigtkhill"
 linkedin = "linkedin.com/in/craigtkhill"
 ```
 
+[[BLOG/AI-HARMS\| The Harms of AI]]
