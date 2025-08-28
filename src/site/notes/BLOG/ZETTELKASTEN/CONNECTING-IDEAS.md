@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten/connecting-ideas/","updated":"2025-08-26T22:41:39.278+01:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten/connecting-ideas/","title":"Connecting Ideas","updated":"2025-08-28T21:38:23.884+01:00"}
 ---
 
 # Connecting Ideas
