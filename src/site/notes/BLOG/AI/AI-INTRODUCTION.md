@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai/ai-introduction/","updated":"2025-08-26T19:43:08.853+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai/ai-introduction/","tags":["to_blog"],"updated":"2025-08-27T17:04:01.446+01:00"}
 ---
 
 I've been having a lot of thoughts about AI lately. These thoughts on how we are using AI having been prompted by a singular feeling. Sure, we can argue that developers are losing their precision, creativity, autonomy, but most severely for me coding has for the first time become  **not fun**.

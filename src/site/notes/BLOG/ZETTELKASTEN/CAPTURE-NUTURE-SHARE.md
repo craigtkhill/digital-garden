@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten/capture-nuture-share/","updated":"2025-08-26T19:46:35.471+01:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten/capture-nuture-share/","title":"Capture, Nuture, Share","updated":"2025-08-28T21:53:21.626+01:00"}
 ---
 
 # Capture Nurture Share
 The first elements of a Zettelkasten involve capturing, nurturing, and sharing.
-
 ##  Capture
 To capture I have a simple note app that takes in all my random thoughts.
 I call this my "Mind Dump".
@@ -15,3 +14,6 @@ Turning each thought into an individual note.
 ## Share
 Finally, through this book, I express these thoughts.
 The process of which refines my thinking and leads me further to nurture my ideas.
+
+| *Previous thought 💭:* [[BLOG/ZETTELKASTEN/CAPTURE-NUTURE-SHARE\|CAPTURE-NUTURE-SHARE\]] | *Next thought 💭:* [[BLOG/ZETTELKASTEN/TIME-CONTEXT-CATEGORY-HIERARCHY\| TCCH: A Latch Alternative]] |
+| --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |

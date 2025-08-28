@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten/connecting-ideas/","title":"Connecting Ideas","updated":"2025-08-28T21:38:23.884+01:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten/connecting-ideas/","title":"Connecting Ideas","updated":"2025-08-28T21:50:38.622+01:00"}
 ---
 
 # Connecting Ideas
@@ -15,3 +15,7 @@ Progress is rarely made by brute-force thinking. Good ideas are rarely conjured 
 Writers make connections between ideas. Engineers make connections between things. Business leaders make connections between people.
 
 By connecting notes, we expand our learning and understanding. By connecting ideas, we develop a framework to represent the data and facts of our respective areas of interest, enabling us to become experts in our field. All that's left then is to elaborate on our network of connected ideas in a meaningful way.
+
+
+| *Previous thought 💭:* [[BLOG/ZETTELKASTEN/CONNECTING-IDEAS\|Connecting Ideas]] | *Next thought 💭:* [[BLOG/ZETTELKASTEN/CAPTURE-NUTURE-SHARE\|CAPTURE-NUTURE-SHARE\]] |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
