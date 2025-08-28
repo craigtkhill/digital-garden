@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten/time-context-category-hierarchy/","title":"TCCH: A Latch Alternative","tags":["blogged"],"updated":"2025-08-28T21:52:42.398+01:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten/time-context-category-hierarchy/","title":"TCCH: A Latch Alternative","tags":["blogged"],"updated":"2025-08-28T22:01:08.583+01:00"}
 ---
 
 # Time-Context-Category-Hierarchy
@@ -14,3 +14,7 @@ These are notes that are grouped related to a specific problem or occasion you h
 These are the broad categories notes can belong to. You can think of them as genres for books or departments in a government. They largely should not overlap with each other. Although there's no need to strictly enforce this. It's just useful to know which category a thought belongs to or whether to create a new category.
 ## Hierarchy
 This is where things get interesting. In your categories you can break ideas into themes with as many layers of depth as you like. I suggest you tackle this iteratively and over time. Ditto for the broad categories. You want your broad categories to emerge as you merge and split ideas apart and group them into themes. Keep going until your ideas can't be split apart and your broad themes are mutually exclusive. This will leave you with a hierarchy of notes with different levels of detail going right down to the most fine-grained. These are the atoms which you can now reassemble into an interesting chemistry of ideas.
+
+
+| *Previous thought 💭:* [[BLOG/ZETTELKASTEN/TIME-CONTEXT-CATEGORY-HIERARCHY\|TCCH: A Latch Alternative]] | *Next thought 💭:* [[BLOG/ZRT/ZRT\|Zettelkasten Refactor Tool]] |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------ |

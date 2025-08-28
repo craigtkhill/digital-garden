@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten/introduction/","title":"Zettelkasten Introduction","tags":["zettelkasten"],"updated":"2025-08-28T21:46:59.870+01:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten/introduction/","title":"Zettelkasten Introduction","tags":["zettelkasten"],"updated":"2025-08-28T21:57:27.972+01:00"}
 ---
 
 A *Zettelkasten* (German for "Note Box") is a garden for growing and [[BLOG/ZETTELKASTEN/CONNECTING-IDEAS\|connecting ideas ]] you accumulate throughout your life. Over time, it builds and becomes an architecture to structure your philosophy, help you to solve problems, and guide decisions.
@@ -12,5 +12,5 @@ Think of consuming information as panning for gold; the more you pan, the more s
 
 And this digital garden will show you how to unlock the gold rush.
 
-| *Previous thought 💭:* [[BLOG/ZETTELKASTEN/INTRODUCTION\|Zettelkasten Introduction]] | *Next thought 💭:* [[BLOG/ZETTELKASTEN/CONNECTING-IDEAS\|Connecting Ideas]] |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| *Previous thought 💭:* [[BLOG/introduction\|Home]] | *Next thought 💭:* [[BLOG/ZETTELKASTEN/CONNECTING-IDEAS\|Connecting Ideas]] |
+| -------------------------------------------------- | --------------------------------------------------------------------------- |
