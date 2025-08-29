@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zettelkasten/connecting-ideas/","title":"Connecting Ideas","created":"2025-08-26T19:46:54.838+01:00","updated":"2025-08-28T22:10:00.761+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zettelkasten/connecting-ideas/","title":"Connecting Ideas","created":"2025-08-26T19:46:54.838+01:00","updated":"2025-08-29T20:36:08.533+01:00"}
 ---
-
-# Connecting Ideas
 
 The Unix philosophy suggests that programs should do one thing and do it well. Your notes should do the same.
 
