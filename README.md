@@ -1,9 +1,24 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# Craig Hill's Digital Garden
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+## 🌱 About
+A personal digital garden exploring ideas that emerge from connections made within my zettelkasten - a knowledge management system that helps connect ideas and foster deep thinking. Rather than traditional chronological blogging, content here grows organically from the connections and patterns that emerge from my notes and experiences.
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+## 🏗️ Built With
+
+- [Eleventy (11ty)](https://www.11ty.dev/) - Static site generator
+- [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden)
+- + Personal customizations
+
+
+
+## 📜 License
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to share and adapt this material for non-commercial purposes with attribution.
+
+## 🔗 Connect
+
+- **Website**: [craighill.dev](https://craighill.dev)
+- **GitHub**: [@craigtkhill](https://github.com/craigtkhill)
+- **LinkedIn**: [craigtkhill](https://linkedin.com/in/craigtkhill)
