@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/language-learning/lngkata/","tags":["language","portuguese","refactored","blogged","to_blog"],"updated":"2025-08-28T22:13:22.199+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/language-learning/lngkata/","tags":["language","portuguese","blogged","to_blog","to_refactor"],"created":"2025-08-27T06:13:21.321+01:00","updated":"2025-08-29T07:17:56.997+01:00"}
 ---
 
 I've been struggling to learn a foreign language. Every language learning app is frankly crap.  I tried Duolingo and a host of other apps, and they eventually either frustrate me or bore me and more importantly, I wasn't learning. The others that look promising don't have my target language, Brazilian Portuguese.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zettelkasten/time-context-category-hierarchy/","title":"TCCH: A Latch Alternative","tags":["blogged"],"updated":"2025-08-28T22:11:07.246+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zettelkasten/time-context-category-hierarchy/","title":"TCCH: A Latch Alternative","tags":["blogged","to_refactor"],"created":"2025-08-26T19:47:11.070+01:00","updated":"2025-08-29T07:18:46.640+01:00"}
 ---
 
 # Time-Context-Category-Hierarchy

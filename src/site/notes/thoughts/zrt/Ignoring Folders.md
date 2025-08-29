@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zrt/ignoring-folders/","tags":["blogged"],"updated":"2025-08-28T07:26:26.542+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zrt/ignoring-folders/","tags":["blogged"],"created":"2025-08-26T19:48:02.931+01:00","updated":"2025-08-28T07:26:26.542+01:00"}
 ---
 
 # Ignoring Folders

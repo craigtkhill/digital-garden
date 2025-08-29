@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zrt/yaml-frontmatter/","tags":["blogged"],"updated":"2025-08-28T07:26:14.781+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zrt/yaml-frontmatter/","tags":["blogged"],"created":"2025-08-26T19:48:20.462+01:00","updated":"2025-08-28T07:26:14.781+01:00"}
 ---
 
 # YAML Frontmatter

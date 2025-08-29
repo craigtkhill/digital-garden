@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zettelkasten/capture-nurture-share/","title":"Capture, Nuture, Share","updated":"2025-08-28T22:10:39.794+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zettelkasten/capture-nurture-share/","title":"Capture, Nuture, Share","created":"2025-08-26T19:46:30.125+01:00","updated":"2025-08-28T22:10:39.794+01:00"}
 ---
 
 # Capture Nurture Share

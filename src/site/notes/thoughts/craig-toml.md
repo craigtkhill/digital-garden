@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/craig-toml/","tags":["to_refactor","to_blog"],"updated":"2025-08-28T22:07:47.992+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/craig-toml/","tags":["to_refactor","to_blog"],"created":"2025-08-26T19:32:34.171+01:00","updated":"2025-08-28T22:07:47.992+01:00"}
 ---
 
 

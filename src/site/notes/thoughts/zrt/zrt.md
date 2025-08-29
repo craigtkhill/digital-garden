@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zrt/zrt/","title":"Zettelkasten Refactor Tool","updated":"2025-08-28T22:02:15.095+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zrt/zrt/","title":"Zettelkasten Refactor Tool","created":"2025-08-26T19:48:37.068+01:00","updated":"2025-08-28T22:02:15.095+01:00"}
 ---
 
 # Zettelkasten Refactor Tool
