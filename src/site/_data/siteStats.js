@@ -33,12 +33,16 @@ module.exports = function() {
     });
     
     // Average book is ~70,000 words
-    const booksEquivalent = (totalWords / 70000).toFixed(1);
+    const booksEquivalent = (totalWords / 70000).toFixed(2);
+    
+    // Get public thoughts percentage from environment variable
+    const publicThoughtsPercent = process.env.PUBLIC_THOUGHTS_PERCENT || '1.94';
     
     return {
         totalWords,
         totalNotes,
         booksEquivalent,
-        averageWordsPerNote: Math.round(totalWords / totalNotes)
+        averageWordsPerNote: Math.round(totalWords / totalNotes),
+        publicThoughtsPercent
     };
 };
