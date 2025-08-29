@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zettelkasten/capture-nurture-share/","title":"Capture, Nuture, Share","created":"2025-08-26T19:46:30.125+01:00","updated":"2025-08-28T22:10:39.794+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zettelkasten/capture-nurture-share/","title":"Capture, Nuture, Share","created":"2025-08-26T19:46:30.125+01:00","updated":"2025-08-29T22:17:03.676+01:00"}
 ---
 
-# Capture Nurture Share
 The first elements of a Zettelkasten involve capturing, nurturing, and sharing.
 ##  Capture
 To capture I have a simple note app that takes in all my random thoughts. I call this my "Mind Dump".
