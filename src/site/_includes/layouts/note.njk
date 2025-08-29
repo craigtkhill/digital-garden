@@ -43,13 +43,16 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
               {% endfor %}
             </div>
           {% endif %}
-          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
+          {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated or (tags and 'gardenEntry' in tags) -%}
           <div class="timestamps">
             {%- if meta.timestampSettings.showCreated and created -%}
             <div><i icon-name="calendar-plus"></i> Planted <span class="human-date" data-date="{{created}}"></span></div>
             {%- endif -%}
             {%- if meta.timestampSettings.showUpdated and updated -%}
             <div><i icon-name="calendar-clock"></i> Last tended <span class="human-date" data-date="{{updated}}"></span></div>
+            {%- endif -%}
+            {%- if tags and 'gardenEntry' in tags -%}
+            <div><i icon-name="book-open"></i> ~{{ siteStats.booksEquivalent }} books worth</div>
             {%- endif -%}
           </div>
           {%- endif -%}
