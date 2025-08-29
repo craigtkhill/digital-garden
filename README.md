@@ -7,9 +7,6 @@ A personal digital garden exploring ideas that emerge from connections made with
 
 - [Eleventy (11ty)](https://www.11ty.dev/) - Static site generator
 - [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden)
-- + Personal customizations
-
-
 
 ## 📜 License
 
