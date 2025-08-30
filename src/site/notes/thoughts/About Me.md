@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/about-me/","tags":["blogged","refactored"],"created":"2025-08-26T19:32:34.171+01:00","updated":"2025-08-30T09:06:40.613+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/about-me/","tags":["blogged","refactored"],"created":"2025-08-26T19:32:34.171+01:00","updated":"2025-08-30T09:29:26.530+01:00"}
 ---
 
 
@@ -7,8 +7,7 @@
 [author]
 name = "Craig Hill"
 role = "Data Scientist, AI and ML Engineer"
-description = "Thoughts on working with AI, building better note-taking workflows, 
-and creating useful development tools."
+description = "Thoughts on working with AI, building better note-taking workflows, and creating useful development tools."
 
 [blog]
 topics = [
