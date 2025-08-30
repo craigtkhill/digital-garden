@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zrt/zrt/","title":"Zettelkasten Refactor Tool","created":"2025-08-26T19:48:37.068+01:00","updated":"2025-08-28T22:02:15.095+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zrt/zrt/","title":"Zettelkasten Refactor Tool","tags":["refactored","blogged","zrt"],"created":"2025-08-26T19:48:37.068+01:00","updated":"2025-08-30T09:10:37.909+01:00"}
 ---
 
 # Zettelkasten Refactor Tool
@@ -15,3 +15,6 @@ My ordinary workflow involves using Obsidian. However, certain tasks require spe
 While I could create a plugin for Obsidian, I wanted something that doesn't rely on any particular interface and that could be extended to work with any workflow, including Vim.
 
 Hence, I started creating this cli tool in Rust. Welcome to the user guide and documentation for `zrt`.
+
+- [[thoughts/zrt/YAML Frontmatter\|YAML Frontmatter]]
+- [[thoughts/zrt/Ignoring Folders\|Ignoring Folders]]
