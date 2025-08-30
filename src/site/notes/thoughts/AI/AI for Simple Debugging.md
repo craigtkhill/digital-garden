@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/thoughts/ai/ai-for-simple-debugging/","tags":["ai","refactored","blogged"],"created":"2025-08-30T08:39:07.031+01:00","updated":"2025-08-30T08:40:27.600+01:00"}
+---
+
+If you have a bug in your code, you should always try to figure it out yourself. It's a muscle that you need to keep flexing. Oftentimes, the error is simple to catch and you can fix faster than the time it would take you to prompt an LLM, especially if you use tools with helpful error messages. However, if you find yourself staring at a problem to the point that your brain is skipping over gaps, trying to figure out what might be going on, it's helpful to throw it into AI to get a second opinion. Usually, it works pretty well. But always be wary of false positives and don't ask AI to seek bugs that might be there. Its response is usually too noisy and unless you know what you are doing and can separate the wheat from the chaff, it's often counterproductive to take its suggestions wholesale.
