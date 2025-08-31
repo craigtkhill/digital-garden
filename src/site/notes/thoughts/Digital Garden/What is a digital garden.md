@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/thoughts/digital-garden/what-is-a-digital-garden/","title":"What is a digital garden","tags":["digital-garden","refactored","blogged"],"created":"2025-08-29T21:13:45.542+01:00","updated":"2025-08-31T13:57:38.013+01:00"}
----
-
-A digital garden allows ideas to grow and evolve, without the constraints of linear organisation. They are for exploring a richly linked landscape that increasingly blossoms over time. Think of how easy it is to fall down a Wikipedia rabbit hole. Digital gardens are similar, yet more personal and experimental. It's a vision of an alternative internet, how it could have been if we weren't conquered by the Millennial Promote Your Personal Brand™ Blogs and algorithmic newsfeed streams. It's hyperlinking at its best. You get to choose and explore in a way more natural to how the human brain thinks, in a neurotically networked hypergraph.
