@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/zettelkasten/connecting-ideas/","title":"Connecting Ideas","created":"2025-08-26T19:46:54.838+01:00","updated":"2025-08-29T20:36:08.533+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/zettelkasten/connecting-ideas/","title":"Connecting Ideas","created":"2025-08-26T19:46:54.838+01:00","updated":"2025-08-30T09:46:58.811+01:00"}
 ---
 
 The Unix philosophy suggests that programs should do one thing and do it well. Your notes should do the same.
@@ -13,7 +13,3 @@ Progress is rarely made by brute-force thinking. Good ideas are rarely conjured 
 Writers make connections between ideas. Engineers make connections between things. Business leaders make connections between people.
 
 By connecting notes, we expand our learning and understanding. By connecting ideas, we develop a framework to represent the data and facts of our respective areas of interest, enabling us to become experts in our field. All that's left then is to elaborate on our network of connected ideas in a meaningful way.
-
-
-| *Previous thought 💭:* [[thoughts/Zettelkasten/Introduction\|Zettelkasten Introduction]] | *Next thought 💭:* [[thoughts/Zettelkasten/Capture Nurture Share\|Capture, Nuture, Share]] |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
