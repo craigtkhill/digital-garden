@@ -6,8 +6,10 @@ function caselessCompare(a, b) {
 }
 
 function extractLinks(content) {
+  // Ensure content is a string
+  const contentStr = String(content || '');
   return [
-    ...(content.match(wikiLinkRegex) || []).map(
+    ...(contentStr.match(wikiLinkRegex) || []).map(
       (link) =>
         link
           .slice(2, -2)
@@ -17,7 +19,7 @@ function extractLinks(content) {
           .trim()
           .split("#")[0]
     ),
-    ...(content.match(internalLinkRegex) || []).map(
+    ...(contentStr.match(internalLinkRegex) || []).map(
       (link) =>
         link
           .slice(6, -1)
@@ -30,18 +32,25 @@ function extractLinks(content) {
   ];
 }
 
-function getGraph(data) {
+async function getGraph(data) {
   let nodes = {};
   let links = [];
   let stemURLs = {};
   let homeAlias = "/";
-  (data.collections.note || []).forEach((v, idx) => {
+  
+  for (let idx = 0; idx < (data.collections.note || []).length; idx++) {
+    const v = data.collections.note[idx];
     let fpath = v.filePathStem.replace("/notes/", "");
     let parts = fpath.split("/");
     let group = "none";
     if (parts.length >= 3) {
       group = parts[parts.length - 2];
     }
+    
+    // Use async read() method instead of accessing frontMatter directly
+    const templateData = await v.template.read();
+    const templateContent = templateData?.content || templateData || '';
+    
     nodes[v.url] = {
       id: idx,
       title: v.data.title || v.fileSlug,
@@ -51,7 +60,7 @@ function getGraph(data) {
         v.data["dg-home"] ||
         (v.data.tags && v.data.tags.indexOf("gardenEntry") > -1) ||
         false,
-      outBound: extractLinks(v.template.frontMatter.content),
+      outBound: extractLinks(String(templateContent)),
       neighbors: new Set(),
       backLinks: new Set(),
       noteIcon: v.data.noteIcon || process.env.NOTE_ICON_DEFAULT,
@@ -64,7 +73,7 @@ function getGraph(data) {
     ) {
       homeAlias = v.url;
     }
-  });
+  }
   Object.values(nodes).forEach((node) => {
     let outBound = new Set();
     node.outBound.forEach((olink) => {
