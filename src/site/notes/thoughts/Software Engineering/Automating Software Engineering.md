@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/software-engineering/automating-software-engineering/","tags":["blogged","refactored"],"created":"2025-09-01T20:23:24.499+01:00","updated":"2025-09-01T21:03:04.218+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/software-engineering/automating-software-engineering/","tags":["blogged","refactored","ai","software-engineering"],"created":"2025-09-01T20:23:24.499+01:00","updated":"2025-09-01T21:38:26.653+01:00"}
 ---
 
 Automation has always helped us write code. Throughout software engineering history, the path has been to automate and abstract away more and more of the complexities of interfacing between machine language and human language. We don't write machine code anymore; we moved from assembly to C to Rust. Each provides new ergonomic abstractions that make them a little easier to deal with (depending on the situation). We use these languages to automate things. And as those problems and solutions are encoded in easily replicable code, once we solve a problem, we rarely need to reinvent the wheel. That means most problems you face will be new and unique. 
