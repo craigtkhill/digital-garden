@@ -7,4 +7,4 @@ In software engineering, there are only three goals
 2. Communicate our ideas to other humans
 3. Instruct the computer on what to do.
 
-*Note. Even with generative AI, these are incredibly hard to [[Automating Software Engineering\|automate]]*.
+*Note. Even with generative AI, these are incredibly hard to [[thoughts/Software Engineering/Automating Software Engineering\|automate]]*.
