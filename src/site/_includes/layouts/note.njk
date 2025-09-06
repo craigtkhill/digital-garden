@@ -52,7 +52,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             <div><i icon-name="calendar-clock"></i> Last tended <span class="human-date" data-date="{{updated}}"></span></div>
             {%- endif -%}
             {%- if tags and 'gardenEntry' in tags -%}
-            <div><i icon-name="book-open"></i> ~{{ siteStats.booksEquivalent }} books worth</div>
+            <div><i icon-name="book-open"></i> ~{{ siteStats.booksEquivalent }} books worth ({{ siteStats.pagesEquivalent }} pages)</div>
             {%- endif -%}
           </div>
           {%- endif -%}

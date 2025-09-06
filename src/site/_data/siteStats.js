@@ -35,6 +35,9 @@ module.exports = function() {
     // Average book is ~70,000 words
     const booksEquivalent = (totalWords / 70000).toFixed(2);
     
+    // Average nonfiction page is ~250 words
+    const pagesEquivalent = Math.round(totalWords / 250);
+    
     // Get public thoughts percentage from environment variable
     const publicThoughtsPercent = process.env.PUBLIC_THOUGHTS_PERCENT || '1.94';
     
@@ -42,6 +45,7 @@ module.exports = function() {
         totalWords,
         totalNotes,
         booksEquivalent,
+        pagesEquivalent,
         averageWordsPerNote: Math.round(totalWords / totalNotes),
         publicThoughtsPercent
     };
