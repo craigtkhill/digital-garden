@@ -10,4 +10,33 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    
+    // Make search box larger
+    .search-container.active .search-box {
+        width: 90vw !important;
+        max-width: 800px !important;
+        margin: 0 auto !important;
+        transform: none !important;
+        
+        input#term {
+            font-size: 18px !important;
+            padding: 15px 20px !important;
+            height: auto !important;
+            min-height: 50px !important;
+        }
+        
+        #search-results {
+            max-height: 60vh !important;
+            font-size: 16px !important;
+        }
+    }
+    
+    // Also target the container itself
+    #globalsearch.active {
+        .search-box {
+            width: 90vw !important;
+            max-width: 800px !important;
+            margin: 0 auto !important;
+        }
+    }
 }
