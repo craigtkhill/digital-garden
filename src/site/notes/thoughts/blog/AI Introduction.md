@@ -20,4 +20,4 @@ So I can't rely on their APIs for a stable workflow. I'm not saying we should st
 
 *Despite Karpathy's reputation as a vibe coder, he and myself believe that letting LLMs generate large chunks of code is problematic, especially in projects where code quality and precision matter. We need to figure out how to use it in a controlled, step-by-step collaboration instead of letting it run wild. Source: Karpathy, A. (2025). [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)*
 
-## [[thoughts/Requirements for a better AI collabration\|Requirements for a better AI collabration]]
+## [[thoughts/blog/Requirements for a better AI collabration\|Requirements for a better AI collabration]]
