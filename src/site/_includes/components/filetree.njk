@@ -37,7 +37,9 @@
             {% include imp %}
         {% endfor %}
          <a href="/" style="text-decoration: none;">
-               <h1 style="text-align:center;">{{meta.siteName}}</h1>
+               <div style="text-align:center; padding: 15px;">
+                  <img src="/logo.svg" alt="Logo" style="width:10em;height:10em;">
+               </div>
          </a>
          {% for imp in dynamics.filetree.afterTitle %}
             {% include imp %}
