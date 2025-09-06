@@ -39,8 +39,9 @@
           </div>
         {% endif %}
         <div class="timestamps">
-          <div><i icon-name="book-open"></i> {{ siteStats.booksEquivalent }} Books worth of thoughts ({{ siteStats.pagesEquivalent }} pages)</div>
+          <div><i icon-name="book-open"></i> {{ siteStats.booksEquivalent }} Books worth of thoughts</div>
           <div><i icon-name="eye"></i> {{ siteStats.publicThoughtsPercent }}% of thoughts are public</div>
+          <div>{{ siteStats.pagesPublic }} <i icon-name="file-text"></i> out of {{ siteStats.pagesPublic + siteStats.pagesPrivate }} <i icon-name="lock"></i> pages worth</div>
         </div>
       </div>
       {% for imp in dynamics.common.header %}

@@ -38,14 +38,23 @@ module.exports = function() {
     // Average nonfiction page is ~250 words
     const pagesEquivalent = Math.round(totalWords / 250);
     
-    // Get public thoughts percentage from environment variable
+    // The pages calculated above are the PUBLIC pages (since we're only processing public files)
+    // Get public thoughts percentage from environment variable to calculate total private pages
     const publicThoughtsPercent = process.env.PUBLIC_THOUGHTS_PERCENT || '1.94';
+    const publicThoughtsPercentNum = parseFloat(publicThoughtsPercent) / 100;
+    
+    // Calculate private pages: if public is X% of total, then total = public / X%
+    const pagesPublic = pagesEquivalent;
+    const totalPagesIncludingPrivate = Math.round(pagesEquivalent / publicThoughtsPercentNum);
+    const pagesPrivate = totalPagesIncludingPrivate - pagesPublic;
     
     return {
         totalWords,
         totalNotes,
         booksEquivalent,
         pagesEquivalent,
+        pagesPublic,
+        pagesPrivate,
         averageWordsPerNote: Math.round(totalWords / totalNotes),
         publicThoughtsPercent
     };
