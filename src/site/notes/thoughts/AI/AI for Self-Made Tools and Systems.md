@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/thoughts/ai/ai-for-self-made-tools-and-systems/","tags":["blogged","refactored","ai"],"created":"2025-08-30T08:46:51.286+01:00","updated":"2025-08-30T08:47:15.023+01:00"}
----
-
-If you know how to use your tools, using AI often isn't that helpful. If you know how to write code and know what you want, then it is often faster to write the code yourself rather than repeatedly prompt AI until it gives you the code you are looking for. Sometimes you may have processes that you understand very well and are worthwhile automating. AI is great for these tasks. However, I suggest you create a system that uses AI to funnel data into it rather than using the AI (and I mean specifically the model) as the system itself. Not only is this more reliable, but it will also give you an advantage, so long as your system isn't easily sherlocked, you'll have access to something that makes you more productive than anyone else has.
