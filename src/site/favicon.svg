@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <use href="/logo.svg" />
+<svg viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="36" cy="36" r="32" fill="rgb(24, 24, 37)" stroke="none"/>
+  
+  <!-- Letter C -->
+  <path d="M 26 20 
+           Q 18 20 18 36
+           Q 18 52 26 52
+           Q 32 52 34 48" 
+        fill="none" 
+        stroke="rgb(245, 224, 220)" 
+        stroke-width="4" 
+        stroke-linecap="round"/>
+  
+  <!-- Letter H -->
+  <line x1="44" y1="20" x2="44" y2="52" stroke="rgb(245, 224, 220)" stroke-width="4" stroke-linecap="round"/>
+  <line x1="54" y1="20" x2="54" y2="52" stroke="rgb(245, 224, 220)" stroke-width="4" stroke-linecap="round"/>
+  <line x1="44" y1="36" x2="54" y2="36" stroke="rgb(245, 224, 220)" stroke-width="4" stroke-linecap="round"/>
 </svg>
