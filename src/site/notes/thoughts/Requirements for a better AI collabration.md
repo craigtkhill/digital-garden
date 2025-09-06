@@ -15,4 +15,4 @@ As far as I can tell in my research, no one else is implementing AI to meet thes
 
 The goal is to make programming fun again, and who knows, maybe it will give me an advantage in reducing the amount of slop I need to clean up.
 
-## [[thoughts/AI/AI Uses\|AI Uses]]
+## [[thoughts/blog/AI Uses\|AI Uses]]
