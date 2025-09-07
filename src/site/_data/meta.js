@@ -74,6 +74,9 @@ module.exports = async (data) => {
     githubUrl: process.env.GITHUB_URL,
     linkedinUrl: process.env.LINKEDIN_URL,
     blueskyUrl: process.env.BLUESKY_URL,
+    siteTitle: process.env.SITE_TITLE,
+    siteDescription: process.env.SITE_DESCRIPTION,
+    siteDefaultImage: process.env.SITE_DEFAULT_IMAGE,
   };
 
   return meta;

@@ -37,11 +37,13 @@
 {% endif %}
 
 <!-- Default social sharing metadata -->
-<meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} - {{ meta.env.SITE_TITLE }}">
-<meta property="og:description" content="{{ meta.env.SITE_DESCRIPTION }}">
+<meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} - {{ meta.siteTitle }}">
+<meta property="og:description" content="{{ meta.siteDescription }}">
+<meta property="og:image" content="{{ meta.siteDefaultImage }}">
 <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary">
-<meta name="description" content="{{ meta.env.SITE_DESCRIPTION }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ meta.siteDefaultImage }}">
+<meta name="description" content="{{ meta.siteDescription }}">
 
 {% if meta.styleSettingsCss %}
     <style>
