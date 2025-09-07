@@ -36,6 +36,13 @@
     {% endfor %}
 {% endif %}
 
+<!-- Default social sharing metadata -->
+<meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %} - {{ meta.env.SITE_TITLE }}">
+<meta property="og:description" content="{{ meta.env.SITE_DESCRIPTION }}">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="{{ meta.env.SITE_DESCRIPTION }}">
+
 {% if meta.styleSettingsCss %}
     <style>
         {{ meta.styleSettingsCss | safe }}
