@@ -2,6 +2,10 @@ const fs = require('fs');
 const path = require('path');
 const glob = require('glob');
 
+// Load both .env files
+require('dotenv').config();
+require('dotenv').config({ path: '.env.custom' });
+
 module.exports = function() {
     const notesDir = path.join(__dirname, '../notes/**/*.md');
     const noteFiles = glob.sync(notesDir);
