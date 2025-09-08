@@ -39,7 +39,7 @@ module.exports = function() {
     const pagesEquivalent = Math.round(totalWords / 250);
     
     // Get total words from environment variable and calculate private content
-    const totalWordsAllNotes = parseInt(process.env.TOTAL_WORDS_ALL_NOTES || '287985');
+    const totalWordsAllNotes = parseInt(process.env.TOTAL_WORDS_ALL_NOTES);
     const privateWords = totalWordsAllNotes - totalWords;
     
     // Calculate public/private pages and books
