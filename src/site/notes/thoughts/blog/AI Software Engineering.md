@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-12T18:08:58.851+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-12T18:16:46.054+01:00"}
 ---
 
 Coding has, for the first time, become **not fun**. Our creativity, autonomy, and precision have been traded for code reviews, context switching, and duplicated code that works through some alchemy you're afraid to disturb.
@@ -14,4 +14,4 @@ It does so much so well on the surface, but when I dig a little deeper, and have
 
 So it's difficult to rely on their APIs for a stable workflow. I'm not saying we should stop using [[thoughts/blog/Keep AI on the leash\|AI for development]]. [[thoughts/blog/Limit AI Use\|But we should stop relying on it]]. I don't want AI tools that write all the code. I want tools to [[thoughts/blog/Requirements for a better AI collabration\|help me write better code]].
 
-> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://example.com)
+> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://bsky.app/profile/craigtkhill.bsky.social/post/3lynrbggkis2y)
