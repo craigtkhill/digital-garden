@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/introduction/","title":"Craig's Digital Garden","tags":["refactored","blogged","gardenEntry"],"created":"2025-08-27T06:54:48.266+01:00","updated":"2025-09-07T21:57:50.234+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/introduction/","title":"Craig's Digital Garden","tags":["refactored","blogged","zettelkasten","gardenEntry"],"created":"2025-08-27T06:54:48.266+01:00","updated":"2025-09-11T20:01:40.180+01:00"}
 ---
 
 ![graph-network.png|400](/img/user/IMAGES/graph-network.png)

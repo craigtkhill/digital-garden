@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/connecting-ideas/","title":"Connecting Ideas","created":"2025-08-26T19:46:54.838+01:00","updated":"2025-08-30T09:46:58.811+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/connecting-ideas/","title":"Connecting Ideas","tags":["refactored","zettelkasten","to_blog"],"created":"2025-08-26T19:46:54.838+01:00","updated":"2025-09-11T20:06:02.400+01:00"}
 ---
 
 The Unix philosophy suggests that programs should do one thing and do it well. Your notes should do the same.

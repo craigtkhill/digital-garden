@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/why-use-a-digital-garden/","title":"Why use a digital garden?","tags":["blogged","refactored"],"created":"2025-09-07T21:19:35.869+01:00","updated":"2025-09-08T20:52:33.848+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/why-use-a-digital-garden/","title":"Why use a digital garden?","tags":["blogged","refactored","digital-garden"],"created":"2025-09-07T21:19:35.869+01:00","updated":"2025-09-11T20:01:30.546+01:00"}
 ---
 
 ![digital-garden-compared-to-other-media.png](/img/user/IMAGES/digital-garden-compared-to-other-media.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/ai-introduction/","tags":["to_refactor","blogged"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-01T20:20:01.974+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/ai-introduction/","tags":["to_refactor","blogged","ai"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-11T20:02:12.869+01:00"}
 ---
 
 I've been having a lot of thoughts about AI lately. These thoughts on how we are using AI have been prompted by a singular feeling. Sure, we can argue that developers are losing their precision, creativity, and autonomy, but most severely for me, coding has, for the first time, become **not fun**.

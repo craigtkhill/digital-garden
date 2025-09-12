@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/navigating-the-digital-garden/","tags":["blogged","refactored"],"created":"2025-09-08T20:44:13.420+01:00","updated":"2025-09-08T20:55:40.659+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/navigating-the-digital-garden/","tags":["blogged","refactored","digital-garden"],"created":"2025-09-08T20:44:13.420+01:00","updated":"2025-09-11T20:02:23.803+01:00"}
 ---
 
 ![Pasted image 20250828162452.png](/img/user/IMAGES/Pasted%20image%2020250828162452.png)
