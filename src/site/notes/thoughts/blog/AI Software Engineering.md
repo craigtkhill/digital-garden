@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-12T18:16:46.054+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-12T18:17:48.544+01:00"}
 ---
 
 Coding has, for the first time, become **not fun**. Our creativity, autonomy, and precision have been traded for code reviews, context switching, and duplicated code that works through some alchemy you're afraid to disturb.
 
-There was a branching point at which using AI to help write code stopped being fun. This was around the time that developers started trading Copilot's basic line completion for a more cursor-style vibe in coding IDEs.
+There was a branching point at which using AI to help write code stopped being fun. This was around the time that developers started trading Copilot's basic line completion for a more cursor-style vibe coding IDEs.
 
 I notice that as LLMs take bigger and bigger steps, the quality of their output declines. Sure, they might do fantastically on benchmarks, but their benchmarks do not match any [[thoughts/blog/Software Engineering Goals\|real-world use case]].
 
