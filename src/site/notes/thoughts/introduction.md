@@ -9,4 +9,4 @@ This is my _[[thoughts/blog/What is a digital garden\|digital garden]]._ This ga
 🤖 [[thoughts/blog/AI Software Engineering\|Artificial Intelligence]]
 🗣️ [[thoughts/blog/lngkata\|Language Learning]]
 
-*[[thoughts/About Me\|About Me]] | [[thoughts/My Links\|Links]]*
+*[[thoughts/About Me\|About Me]] | [[thoughts/blog/My Links\|Links]]*
