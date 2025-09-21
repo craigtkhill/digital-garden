@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/about-me/","tags":["blogged","refactored"],"created":"2025-08-26T19:32:34.171+01:00","updated":"2025-08-30T09:29:26.530+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/about-me/","tags":["blogged","refactored"],"created":"2025-08-26T19:32:34.171+01:00","updated":"2025-09-21T19:46:54.758+01:00"}
 ---
 
 
@@ -15,8 +15,4 @@ topics = [
     "software engineering"
     "zettelkasten",
 ]
-
-[contact]
-github = "github.com/craigtkhill"
-linkedin = "linkedin.com/in/craigtkhill"
 ```
