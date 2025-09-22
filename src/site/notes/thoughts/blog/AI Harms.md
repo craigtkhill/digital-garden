@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/ai-harms/","tags":["to_blog","to_refactor"],"created":"2025-08-26T19:38:31.977+01:00","updated":"2025-09-21T20:07:27.286+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/ai-harms/","tags":["to_blog","to_refactor"],"created":"2025-08-26T19:38:31.977+01:00","updated":"2025-09-22T19:57:14.624+01:00"}
 ---
 
 AI has some benefits. However, by my count, its harms are significantly more numerous.
 - [[thoughts/blog/AI Amplifies the Dunning-Kruger Effect\|AI Amplifies the Dunning-Kruger Effect]]
-
-## AI is an Existential Risk
-The [AI Risk Repository](https://airisk.mit.edu/) lists over 1600 potential risks that advanced AI systems could pose. AI has quietly ignited an arms race between nation-states for dominance. All of the world's leaders will have to go along for a very long time without acting stupidly to prevent the fall of humanity (probably of which is; unlikely). AI has already transformed the battlefield of Ukraine, making whole classes of equipment like naval ships obsolete and others like tanks less effective, resulting in a stalemate [^1]. In a total war, the use of AI to gain a battlefield advantage is always on the table, even with the catastrophic risks. Nuclear weapons had the advantage of mutually assured destruction. With AI, humans in their fight for survival will escalate its use, unleashing more potent killing machines until their last stand. I'm not saying we end up with a Terminator-like scenario, but the realistic scenario of constant attack from 1000s of aerial drones and machine gun-toting robodogs is highly likely. If we do not achieve world peace soon, our stupidity will lead us to make AI that destroys the world.
+- [[thoughts/blog/AI is an Existential Risk\|AI is an Existential Risk]]
 
 ## AI Can't Replace Understanding
 With AI, you can work very quickly. You can do stuff very quickly, and you won't even have to understand how you did it. If you don't understand something well, it's difficult for you to prompt AI successfully to create an accurate mental model of it. Remember, AI only knows what it has seen before and the context it is provided; humans can embody a far greater amount of context of the problems they are working on. Writing the code, or at least understanding what has been written, means you are actively modelling the problem. If you delegate that hard thinking to AI, without understanding the problem, getting to an accurate solution will be more difficult. It's all too easy to get AI to generate slop based on whatever limited context it has access to, have it hide the details, let it make decisions based on this shaky ground, and then give answers that you foolishly trust because you told it "don't make mistakes" in the prompt. No one knows how it got there, whether it is accurate, and you have learned nothing.  Even if you move more slowly, it is important to figure stuff out for yourself. Ignorance accumulates both technical and conceptual debt, and you will find yourself unable to distinguish between working solutions and elaborate failures. So if it's important, invest the time to fully understand the problem and solution spaces.
@@ -29,5 +27,3 @@ With AI, you can work very quickly. You can do stuff very quickly, and you won't
 - AI reduces enjoyment and fun in work
 - AI overfits to benchmarks rather than real performance
 - AI inherits and amplifies human flaws
-
-[^1]: As of writing, Russia is slowly advancing, but at a pace slower than the First World War.
