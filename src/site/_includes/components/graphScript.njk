@@ -94,6 +94,13 @@
                 }
                 
             })
+            .nodePointerAreaPaint((node, color, ctx) => {
+                // Create larger invisible clickable area (15px radius)
+                ctx.fillStyle = color;
+                ctx.beginPath();
+                ctx.arc(node.x, node.y, 15, 0, 2 * Math.PI, false);
+                ctx.fill();
+            })
             .nodeCanvasObject((node, ctx) => {
                 const numberOfNeighbours = (node.neighbors && node.neighbors.length) || 2;
                 const nodeR = Math.min(7, Math.max(numberOfNeighbours / 2, 2));
