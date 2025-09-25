@@ -37,7 +37,7 @@ module.exports = function() {
     });
     
     // Average book is ~70,000 words
-    const booksEquivalent = (totalWords / 70000).toFixed(2);
+    const booksEquivalent = (totalWords / 70000).toFixed(4);
     
     // Average nonfiction page is ~250 words
     const pagesEquivalent = Math.round(totalWords / 250);
@@ -50,7 +50,7 @@ module.exports = function() {
     const pagesPublic = pagesEquivalent;
     const pagesPrivate = Math.round(privateWords / 250);
     const booksPublic = booksEquivalent;
-    const booksPrivate = (privateWords / 70000).toFixed(2);
+    const booksPrivate = (privateWords / 70000).toFixed(4);
     
     // Calculate percentage for display
     const publicThoughtsPercent = ((totalWords / totalWordsAllNotes) * 100).toFixed(2);
