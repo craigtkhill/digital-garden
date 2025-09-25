@@ -12,6 +12,6 @@ I've given up on finding the right application. As I'm genuinely frustrated by t
 
 As a busy person with not much time for side projects, I didn't really fancy writing a whole app just to try out some hypothesis I had about engaging ways to learn a foreign language. I could vibe code it. But even when you are paying attention and using LLMs, they still tend to enter doom loops where technical debt slows down development to a halt.
 
-Why not just take bits of tried and tested pieces of software and put them together? So I prototyped a custom language learning app in one hour without any vibe coding, and it [[lngkata how it works\|works]] pretty great so far. If I use it and find it helpful, then maybe I'll build something more custom.
+Why not just take bits of tried and tested pieces of software and put them together? So I prototyped a custom language learning app in one hour without any vibe coding, and it [[thoughts/blog/lngkata how it works\|works]] pretty great so far. If I use it and find it helpful, then maybe I'll build something more custom.
 
 [^1]: It provides information on translating European to a Brazilian pronunciation. However, this is not an engaging way to learn the language.

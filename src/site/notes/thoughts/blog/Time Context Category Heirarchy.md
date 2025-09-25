@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/thoughts/blog/time-context-category-heirarchy/","tags":["zettelkasten","refactored","blogged"],"created":"2025-02-02T14:00:44.250+00:00","updated":"2025-09-25T19:52:51.963+01:00"}
 ---
 
-![tcch-graph.png](/img/user/tcch-graph.png)
+![tcch-graph.png](/img/user/IMAGES/tcch-graph.png)
 
 *TCCH: A Latch Method alternative*
 

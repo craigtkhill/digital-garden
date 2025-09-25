@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-12T18:17:48.544+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored","shared"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-25T20:04:45.119+01:00"}
 ---
 
 Coding has, for the first time, become **not fun**. Our creativity, autonomy, and precision have been traded for code reviews, context switching, and duplicated code that works through some alchemy you're afraid to disturb.
