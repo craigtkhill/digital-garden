@@ -1,0 +1,46 @@
+---
+permalink: /llms-full.txt
+eleventyExcludeFromCollections: true
+---
+# {{ meta.siteName or "Digital Garden" }} - Full Content Export
+
+> {{ meta.siteDescription or "A digital garden of interconnected notes and knowledge belonging to Craig Hill" }}
+
+{% if meta.siteBaseUrl %}
+## Site
+{{ meta.siteBaseUrl }}
+{% endif %}
+
+## About
+This file contains the complete content of all published notes in this digital garden. This is useful for AI models and LLMs that want to ingest the entire knowledge base.
+
+For a sitemap-style index without full content, see: {{ meta.siteBaseUrl }}/llms.txt
+
+---
+
+# Full Content
+
+{% for note in collections.note | sort(attribute='date') | reverse %}
+## {{ note.data.title or note.fileSlug }}
+
+**URL**: {{ meta.siteBaseUrl }}{{ note.url }}
+**Created**: {{ note.data.created }}
+**Updated**: {{ note.data.updated }}
+{% if note.data.tags %}**Tags**: {{ note.data.tags | join(", ") }}{% endif %}
+
+{{ note.templateContent | hideDataview | safe }}
+
+---
+
+{% endfor %}
+
+## Additional Resources
+
+- **RSS Feed**: {{ meta.siteBaseUrl }}/feed.xml
+- **Sitemap**: {{ meta.siteBaseUrl }}/sitemap.xml
+- **Search Index**: {{ meta.siteBaseUrl }}/search-index.json
+- **Graph View**: {{ meta.siteBaseUrl }}/graph
+
+---
+
+*Generated automatically from Craig's Digital Garden. Last generated: {{ page.date }}*
