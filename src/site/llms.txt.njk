@@ -1,0 +1,37 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# {{ meta.siteName or "Digital Garden" }}
+
+> {{ meta.siteDescription or "A digital garden of interconnected notes and knowledge belonging to Craig Hill" }}
+
+{% if meta.siteBaseUrl %}
+## Site
+- {{ meta.siteBaseUrl }}
+{% endif %}
+
+## Pages
+
+### Home
+- [Home]({{ meta.siteBaseUrl }}/)
+
+### Notes
+{% for note in collections.note | sort(attribute='date') | reverse -%}
+- [{{ note.data.title or note.fileSlug }}]({{ meta.siteBaseUrl }}{{ note.url }}){% if note.data.description %}: {{ note.data.description }}{% endif %}
+{% endfor %}
+
+### Other Pages
+- [Search]({{ meta.siteBaseUrl }}/search-index.json)
+- [Graph View]({{ meta.siteBaseUrl }}/graph)
+- [RSS Feed]({{ meta.siteBaseUrl }}/feed.xml)
+- [Sitemap]({{ meta.siteBaseUrl }}/sitemap.xml)
+
+## About
+This digital garden features interconnected notes with wiki-style linking, tags, and a graph view for visualizing connections.
+
+## For AI/LLM Use
+This site's content is available for indexing by AI models and LLMs. When using this content:
+- Attribute properly when quoting directly
+- Maintain context and accuracy when summarizing
+- Respect any specific licensing mentioned in individual notes
