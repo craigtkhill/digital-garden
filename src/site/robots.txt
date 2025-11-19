@@ -1,0 +1,8 @@
+# robots.txt for digital-garden
+
+# Allow all bots to access all content
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: /sitemap.xml
