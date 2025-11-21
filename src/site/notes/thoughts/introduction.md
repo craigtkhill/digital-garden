@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/introduction/","title":"Craig's Digital Garden","tags":["refactored","blogged","zettelkasten","gardenEntry"],"created":"2025-08-27T06:54:48.266+01:00","updated":"2025-11-21T18:25:47.906+00:00"}
+{"dg-publish":true,"permalink":"/thoughts/introduction/","title":"Craig's Digital Garden","tags":["refactored","blogged","zettelkasten","gardenEntry"],"created":"2025-08-27T06:54:48.266+01:00","updated":"2025-11-21T18:55:32.616+00:00"}
 ---
 
 ![graph-network.png|400](/img/user/IMAGES/graph-network.png)
@@ -9,7 +9,7 @@ This is my _[[thoughts/blog/What is a Digital Garden\|digital garden]]._ This ga
 	- [[thoughts/blog/AI Hot Takes\|AI Hot Takes]]
 	- [[thoughts/blog/AI Uses\|AI Uses]]
 	- [[thoughts/blog/AI Harms\|AI Harms]]
-- [[thoughts/blog/Digital Garden\|Digital Garden]]
+- 🪴 [[thoughts/blog/Digital Garden\|Digital Garden]]
 - 🗣️ [[thoughts/blog/lngkata\|Language Learning]]
 - 📝 [[thoughts/blog/Zettelkasten Introduction\|Zettelkasten]]
 
