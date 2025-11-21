@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/a-note-on-digital-garden-note-sizes/","tags":["digital-garden","blogged","refactored"],"created":"2025-11-21T18:26:08.643+00:00","updated":"2025-11-21T18:56:55.037+00:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/a-note-on-digital-garden-note-sizes/","tags":["digital-garden","blogged","refactored"],"created":"2025-11-21T18:26:08.643+00:00","updated":"2025-11-21T19:03:08.738+00:00"}
 ---
 
 You will notice that these thoughts are very short. That is intentional. Bite-sized not only works well for humans with their ever-decreasing attention spans, but also for agents who experience context rot. One of the responsibilities of my zettelkasten/digital garden is to extend my brain beyond the typical constraints of biological thought and memory. 
@@ -15,4 +15,4 @@ This idea is supported by the use of progressive disclosure to provide the optim
 *Note.* This is a guideline, not a hard rule. I will happily break it when breaking it works better for either human or agent readers.
 
 
-> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://bsky.app/profile/craigtkhill.bsky.social)
+> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://bsky.app/profile/craigtkhill.bsky.social/post/3m65xugik2k2w)
