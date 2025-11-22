@@ -735,12 +735,23 @@ body.backlinks-note-icon .backlink[data-note-icon="3"]::before {
     color: var(--text-muted);
     gap: 10px;
     margin-top: 20px;
+    flex-wrap: wrap;
 
     div {
         display: flex;
         flex-direction: row;
         gap: 3px;
         align-items: center;
+    }
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        gap: 8px;
+        font-size: 0.75em;
+
+        div {
+            gap: 5px;
+        }
     }
 }
 
