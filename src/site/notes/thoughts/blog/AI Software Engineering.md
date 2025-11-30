@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored","shared"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-09-25T20:47:39.507+01:00"}
+{"dg-publish":true,"permalink":"/thoughts/blog/ai-software-engineering/","tags":["blogged","ai","refactored","shared"],"created":"2025-08-26T19:42:38.799+01:00","updated":"2025-11-30T15:21:42.046+00:00"}
 ---
 
 Coding was once fun. [[thoughts/blog/AI made coding not fun\|Then AI came along.]]
