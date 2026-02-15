@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/lngkata/","tags":["language","portuguese","refactored","shared","blogged"],"created":"2025-08-27T06:13:21.321+01:00","updated":"2025-09-26T06:56:27.643+01:00"}
+{"dg-publish":true,"permalink":"/blog/lngkata/","tags":["language","portuguese","refactored","shared","blogged"],"created":"2026-02-15T13:00:01.998+00:00","updated":"2026-02-15T13:00:01.999+00:00"}
 ---
 
 I've been struggling to learn a foreign language. Every language learning app is frankly terrible.  I tried Duolingo and a host of other apps, and they eventually either frustrate me or bore me and more importantly, I wasn't learning. The others that look promising don't have my target language, Brazilian Portuguese.
@@ -16,5 +16,3 @@ Why not just take bits of tried and tested pieces of software and put them toget
 
 [^1]: It provides information on translating European to a Brazilian pronunciation. However, this is not an engaging way to learn the language.
 
-
-> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://bsky.app/profile/craigtkhill.bsky.social/post/3lzoqb4bbyc2a)

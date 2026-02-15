@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai-can-t-replace-understanding/","tags":["blogged","refactored","ai"],"created":"2025-09-25T20:12:48.682+01:00","updated":"2025-09-25T20:16:38.382+01:00"}
+{"dg-publish":true,"permalink":"/blog/ai-can-t-replace-understanding/","tags":["blogged","refactored","ai"],"created":"2026-02-15T13:00:29.311+00:00","updated":"2026-02-15T13:00:29.311+00:00"}
 ---
 
 With AI, you can work very quickly. You can do stuff very quickly, and you won't even have to understand how you did it. If you don't understand something well, it's difficult for you to prompt AI successfully to create an accurate mental model of it. Remember, AI only knows what it has seen before and the context it is provided; humans can embody a far greater amount of context of the problems they are working on. 
@@ -8,5 +8,3 @@ Writing the code, or at least understanding what has been written, means you are
 
 Even if you move more slowly, it is important to figure stuff out for yourself. Ignorance accumulates both technical and conceptual debt, and you will find yourself unable to distinguish between what works and "looks like" it works.  So if it's important, invest the time to fully understand the problem and solution spaces.
 
-
-> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://bsky.app/profile/craigtkhill.bsky.social)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai-for-self-made-tools-and-systems/","tags":["blogged","refactored","ai","long_file"],"created":"2025-08-30T08:46:51.286+01:00","updated":"2025-11-30T21:15:05.919+00:00"}
+{"dg-publish":true,"permalink":"/blog/ai-for-self-made-tools-and-systems/","tags":["blogged","refactored","ai","long_file"],"created":"2026-02-15T13:00:15.788+00:00","updated":"2026-02-15T13:00:15.788+00:00"}
 ---
 
 There are conflicting studies out there that suggest 95% of enterprise AI projects fail, while 75% of enterprises get ROI from AI tools. How can this be? If you know how to use your tools, using AI often isn't that helpful. If you know how to write and know what you want, then it is often faster to write yourself than repeatedly prompt AI until it gives you what you are looking for. 
@@ -10,4 +10,3 @@ I use off-the-shelf tools and flexible platforms to build these automations quic
 
 The mistake that 95% of businesses make is that they spend 6 months making custom bespoke AI workflows to try to automate creative processes they don't understand very well, and are outdated by the time they are deployed.  Learn to use the tools already out there to make yourself more productive, and you will see positive benefits quickly for much less time, effort, and cost.
 
-> [!EXAMPLE] Want to join the discussion? Discuss this thought [here](https://bsky.app/profile/craigtkhill.bsky.social/post/3m6ubz7bymk2v)
