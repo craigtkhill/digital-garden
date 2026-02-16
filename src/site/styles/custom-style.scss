@@ -7,9 +7,12 @@ body {
     //  .content {
     //   font-size: 14px;
     //  }
-    //  h1 {
-    //   color: black;
-    //  }
+    &.colored-headers {
+        --h1-color: rgb(var(--ctp-rosewater));
+    }
+    &.inline-title-h1 {
+        --inline-title-color: rgb(var(--ctp-rosewater));
+    }
     
     // Make search box larger
     .search-container.active .search-box {
