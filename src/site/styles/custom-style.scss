@@ -42,4 +42,87 @@ body {
             margin: 0 auto !important;
         }
     }
+
+    // Yugen section: dark warm theme with rosewater accents
+    &.yugen {
+        // Warm dark backgrounds (tinted toward brown/umber instead of blue)
+        --background-primary: #1f1a17;
+        --background-primary-alt: #1a1512;
+        --background-secondary: #1a1512;
+        --background-secondary-alt: #15100d;
+        --background-modifier-border: #342a24;
+        --background-modifier-border-hover: #3f332b;
+        --background-modifier-border-focus: #4a3c32;
+        --background-modifier-hover: rgba(245, 224, 220, 0.06);
+        --background-modifier-form-field: rgba(21, 16, 13, 0.5);
+        --background-modifier-cover: rgba(26, 21, 18, 0.6);
+        --blockquote-background-color: rgba(21, 16, 13, 0.6);
+
+        // Warm light text
+        --text-normal: #e0d2c8;
+        --text-muted: #a89688;
+        --text-muted-rgb: 168, 150, 136;
+        --text-faint: #806e60;
+        --text-on-accent: #1f1a17;
+        --text-selection: rgba(245, 224, 220, 0.2);
+        --text-highlight-bg: rgba(245, 224, 220, 0.25);
+        --text-highlight-bg-active: rgba(245, 224, 220, 0.4);
+
+        // Rosewater heading tones
+        --h1-color: rgb(var(--ctp-rosewater));
+        --h2-color: rgb(var(--ctp-flamingo));
+        --h3-color: rgb(var(--ctp-peach));
+        --h4-color: rgb(var(--ctp-rosewater));
+        --h5-color: rgb(var(--ctp-flamingo));
+        --h6-color: rgb(var(--ctp-peach));
+        --inline-title-color: rgb(var(--ctp-rosewater));
+
+        // Warm links
+        --link-color: rgb(var(--ctp-rosewater));
+        --link-color-hover: rgb(var(--ctp-flamingo));
+        --link-external-color: rgb(var(--ctp-peach));
+        --link-external-color-hover: rgb(var(--ctp-rosewater));
+        --link-unresolved-decoration-color: rgba(var(--ctp-rosewater), 0.3);
+
+        // Interactive elements
+        --interactive-normal: #2a2320;
+        --interactive-hover: #342a24;
+        --interactive-accent: rgb(var(--ctp-rosewater));
+        --interactive-accent-hover: rgba(var(--ctp-rosewater), 0.85);
+        --blockquote-border-color: rgb(var(--ctp-flamingo));
+
+        // Tags
+        --tag-background: rgba(var(--ctp-rosewater), 0.1);
+        --tag-background-hover: rgba(var(--ctp-rosewater), 0.18);
+        --tag-border-color: rgba(var(--ctp-rosewater), 0.15);
+        --tag-border-color-hover: rgba(var(--ctp-rosewater), 0.25);
+        --tag-color: rgb(var(--ctp-rosewater));
+
+        // Code blocks
+        --code-background: #15100d;
+        --code-normal: #e0d2c8;
+
+        // Base color scale (warm dark)
+        --color-base-00: #15100d;
+        --color-base-10: #1a1512;
+        --color-base-20: #1f1a17;
+        --color-base-25: #2a2320;
+        --color-base-30: #342a24;
+        --color-base-35: #3f332b;
+        --color-base-40: #4a3c32;
+        --color-base-50: #806e60;
+        --color-base-60: #a89688;
+        --color-base-70: #c4b4a6;
+        --color-base-100: #e0d2c8;
+
+        // Accent
+        --color-accent: rgb(var(--ctp-rosewater));
+
+        // Checkbox
+        --checkbox-color: rgb(var(--ctp-rosewater));
+        --checkbox-color-hover: rgb(var(--ctp-flamingo));
+
+        // Nav/sidebar
+        --nav-item-background-selected: rgba(var(--ctp-rosewater), 0.12);
+    }
 }
