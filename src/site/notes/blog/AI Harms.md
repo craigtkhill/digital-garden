@@ -7,4 +7,4 @@ AI has some benefits, of course. However, by my count, its potential harms are m
 - [[blog/AI Amplifies the Dunning-Kruger Effect\|AI Amplifies the Dunning-Kruger Effect]]
 - [[blog/AI Can't Replace Understanding\|AI Can't Replace Understanding]]
 - [[blog/AI is an Existential Risk\|AI is an Existential Risk]]
-- [[AI Fails\|AI Fails]]
+- [[blog/AI Fails\|AI Fails]]
