@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/blog/ai-will-end-the-world-through-war/","tags":["refactored","prediction","ai","blogged"],"created":"2026-02-23T07:48:49.965+00:00","updated":"2026-02-23T08:01:29.113+00:00"}
+---
+
+If AI is a threat to humanity, as so many threaten, and AI does lead to an extinction-level event, it will not be because of a terminator style conscious Overlord determining the Earth is better off without us. Instead, it will be humans engaged in Total War, whose very existence is threatened. They will use AI as a last stand and ensure mutually assured destruction. This is our greatest risk. I would go so far as to say that if we don't solve the intractable problem of world peace before we get to AGI or Super Intelligence, then I predict that an AI-driven war that leads to the extinction of all humans within the following 100 years is **likely**. 
