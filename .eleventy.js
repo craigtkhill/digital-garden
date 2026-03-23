@@ -6,7 +6,7 @@ const faviconsPlugin = require("eleventy-plugin-gen-favicons");
 const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginRss = require("@11ty/eleventy-plugin-rss").default;
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
