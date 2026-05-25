@@ -1,3 +1,5 @@
+@use "obsidian-bases";
+
 /***
 * DO NOT ADD/MODIFY STYLING HERE. IT WILL BE OVERWRITTEN IF YOU UPDATE THE TEMPLATE VERSION.
 * MODIFY THE custom-style.scss FILE INSTEAD.
@@ -1794,4 +1796,3 @@ div.dataview-error-box {
     margin-right: 4px;
 }
 
-@use "obsidian-bases" as *;
