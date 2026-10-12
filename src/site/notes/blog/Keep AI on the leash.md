@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/keep-ai-on-the-leash/","tags":["blogged","refactored","ai"],"created":"2025-09-12T17:51:23.342+01:00","updated":"2025-09-12T17:52:51.737+01:00"}
+{"dg-publish":true,"permalink":"/blog/keep-ai-on-the-leash/","tags":["blogged","refactored","ai"],"created":"2025-09-12T17:51:23.342+01:00","updated":"2026-04-21T06:43:13.343+01:00","dg-note-properties":{"tags":["blogged","refactored","ai"],"links":[]}}
 ---
 
 

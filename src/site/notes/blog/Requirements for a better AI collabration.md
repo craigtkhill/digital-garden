@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/requirements-for-a-better-ai-collabration/","tags":["blogged","refactored","ai"],"created":"2025-08-30T08:49:42.997+01:00","updated":"2025-08-30T08:51:31.810+01:00"}
+{"dg-publish":true,"permalink":"/blog/requirements-for-a-better-ai-collabration/","tags":["blogged","refactored","ai"],"created":"2025-08-30T08:49:42.997+01:00","updated":"2026-04-21T06:43:13.347+01:00","dg-note-properties":{"tags":["blogged","refactored","ai"],"links":[]}}
 ---
 
 As a developer...

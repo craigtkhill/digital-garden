@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/software-engineering-goals/","tags":["blogged","refactored","software-engineering"],"created":"2025-09-01T20:15:51.855+01:00","updated":"2026-03-09T08:46:39.231+00:00"}
+{"dg-publish":true,"permalink":"/blog/software-engineering-goals/","tags":["blogged","refactored","software-engineering"],"created":"2025-09-01T20:15:51.855+01:00","updated":"2026-04-21T06:43:13.959+01:00","dg-note-properties":{"tags":["blogged","refactored","software-engineering"],"links":["[[STDD-AI-SOFTWARE-ENGINEER-GOAL]]"]}}
 ---
 
 In software engineering, there are only three goals

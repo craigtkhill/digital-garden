@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zettelkasten-introduction/","title":"Zettelkasten Introduction","tags":["zettelkasten","blogged","refactored"],"created":"2025-08-26T19:47:38.180+01:00","updated":"2025-11-21T18:25:47.902+00:00"}
+{"dg-publish":true,"permalink":"/blog/zettelkasten-introduction/","title":"Zettelkasten Introduction","tags":["zettelkasten","blogged","refactored"],"created":"2025-08-26T19:47:38.180+01:00","updated":"2026-04-21T06:43:13.980+01:00","dg-note-properties":{"tags":["zettelkasten","blogged","refactored"],"aliases":null,"title":"Zettelkasten Introduction"}}
 ---
 
 A *Zettelkasten* (German for "Note Box") is a garden for growing and [[blog/Connecting Ideas\|connecting ideas ]] you accumulate throughout your life. Over time, it builds and becomes an architecture to structure your philosophy, help you to solve problems, and guide decisions.

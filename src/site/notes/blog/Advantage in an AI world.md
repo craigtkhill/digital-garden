@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/advantage-in-an-ai-world/","tags":["ai","refactored","blogged"],"created":"2025-08-26T19:36:43.972+01:00","updated":"2025-09-26T06:58:55.387+01:00"}
+{"dg-publish":true,"permalink":"/blog/advantage-in-an-ai-world/","tags":["ai","refactored","blogged"],"created":"2025-08-26T19:36:43.972+01:00","updated":"2026-04-21T06:43:13.367+01:00","dg-note-properties":{"tags":["ai","refactored","blogged"],"links":["[[HUMAN-SKILLS-ADVANTAGE]]"]}}
 ---
 
 If you just know how to use the models that everyone uses or the tools that everyone uses, then you will be a commodity.

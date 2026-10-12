@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/capture-nurture-share/","title":"Capture, Nuture, Share","tags":["refactored","zettelkasten","blogged"],"created":"2025-08-26T19:46:30.125+01:00","updated":"2025-09-26T06:59:02.831+01:00"}
+{"dg-publish":true,"permalink":"/blog/capture-nurture-share/","title":"Capture, Nuture, Share","tags":["refactored","zettelkasten","blogged"],"created":"2025-08-26T19:46:30.125+01:00","updated":"2025-09-26T06:59:02.831+01:00","dg-note-properties":{"title":"Capture, Nuture, Share","links":"[[CAPTURE-NUTURE-SHARE]]","tags":["refactored","zettelkasten","blogged"]}}
 ---
 
 

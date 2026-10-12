@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/time-context-category-heirarchy/","tags":["zettelkasten","refactored","blogged"],"created":"2026-02-15T13:00:16.994+00:00","updated":"2026-02-15T13:00:16.994+00:00"}
+{"dg-publish":true,"permalink":"/blog/time-context-category-heirarchy/","tags":["zettelkasten","refactored","blogged"],"created":"2026-02-15T13:00:16.994+00:00","updated":"2026-04-21T06:43:13.557+01:00","dg-note-properties":{"tags":["zettelkasten","refactored","blogged"],"links":["[[TIME-CONTEXT-CATEGORY-HEIRACHY]]"]}}
 ---
 
 ![tcch-graph.png](/img/user/IMAGES/tcch-graph.png)
@@ -12,4 +12,3 @@ The LATCH method is an acronym that stands for **L** - Location, **A** - Alphabe
 - [[blog/TCCH Context\|TCCH Context]]
 - [[blog/TCCH Category\|TCCH Category]]
 - [[blog/TCCH Hierarchy\|TCCH Hierarchy]]
-

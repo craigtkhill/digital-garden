@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drawings/latch-graph/","tags":["excalidraw"],"created":"2024-09-19T09:39:27.611+01:00","updated":"2025-09-25T19:44:29.526+01:00"}
+{"dg-publish":true,"permalink":"/drawings/latch-graph/","tags":["excalidraw"],"created":"2024-09-19T09:39:27.611+01:00","updated":"2026-04-21T06:43:14.067+01:00","dg-note-properties":{"excalidraw-plugin":"parsed","tags":"excalidraw"}}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
@@ -86,5 +86,6 @@ Heirarchy
 
 Heirarchy
 { #hSv6iYdd}
+
 
 

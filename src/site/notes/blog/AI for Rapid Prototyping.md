@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai-for-rapid-prototyping/","tags":["ai","blogged","prototype","refactored","long_file"],"created":"2025-08-30T08:40:56.374+01:00","updated":"2026-02-20T16:47:40.157+00:00"}
+{"dg-publish":true,"permalink":"/blog/ai-for-rapid-prototyping/","tags":["ai","blogged","prototype","refactored"],"created":"2025-08-30T08:40:56.374+01:00","updated":"2026-06-16T07:01:41.426+01:00","dg-note-properties":{"tags":["ai","blogged","prototype","refactored"],"links":"[[AI-USES-QUICK-PROTOTYPES]]"}}
 ---
 
 When you know what you want, AI sucks. When you don't know what you want, AI is great.

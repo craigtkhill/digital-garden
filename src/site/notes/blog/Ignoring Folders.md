@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ignoring-folders/","tags":["blogged","refactored","zrt"],"created":"2025-08-26T19:48:02.931+01:00","updated":"2025-08-30T09:10:08.249+01:00"}
+{"dg-publish":true,"permalink":"/blog/ignoring-folders/","tags":["blogged","refactored","zrt"],"created":"2025-08-26T19:48:02.931+01:00","updated":"2025-08-30T09:10:08.249+01:00","dg-note-properties":{"tags":["blogged","refactored","zrt"],"links":"[[ZRT-IGNORE]]"}}
 ---
 
 If there are files and folders you don't want to consider in your refactoring,

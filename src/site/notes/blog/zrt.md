@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/zrt/","title":"Zettelkasten Refactor Tool","tags":["refactored","blogged","zrt"],"created":"2025-08-26T19:48:37.068+01:00","updated":"2026-01-09T07:27:10.153+00:00"}
+{"dg-publish":true,"permalink":"/blog/zrt/","title":"Zettelkasten Refactor Tool","tags":["refactored","blogged","zrt"],"created":"2025-08-26T19:48:37.068+01:00","updated":"2026-04-21T06:43:13.700+01:00","dg-note-properties":{"title":"Zettelkasten Refactor Tool","links":"[[STDD-TOOLS]]","tags":["refactored","blogged","zrt"]}}
 ---
 
 # Zettelkasten Refactor Tool

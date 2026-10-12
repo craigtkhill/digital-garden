@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/blog/a-note-on-digital-garden-note-sizes/","tags":["digital-garden","blogged","refactored","shared"],"created":"2026-02-15T13:00:25.284+00:00","updated":"2026-02-15T13:00:25.284+00:00"}
+{"dg-publish":true,"permalink":"/blog/a-note-on-digital-garden-note-sizes/","tags":["digital-garden","blogged","refactored","shared"],"created":"2026-02-15T13:00:25.284+00:00","updated":"2026-04-21T06:43:13.529+01:00","dg-note-properties":{"links":["[[DIGITAL-GARDEN-NOTE-SIZE]]"],"tags":["digital-garden","blogged","refactored","shared"]}}
 ---
 
-You will notice that these thoughts are very short. That is intentional. Bite-sized not only works well for humans with their ever-decreasing attention spans, but also for agents who experience context rot. One of the responsibilities of my zettelkasten/digital garden is to extend my brain beyond the typical constraints of biological thought and memory. 
+You will notice that these thoughts are very short. That is intentional. Bite-sized not only works well for humans with their ever-decreasing attention spans, but also for agents who experience context rot. One of the responsibilities of my zettelkasten/digital garden is to extend my brain beyond the typical constraints of biological thought and memory.
 
-I see agents as being extensions of ourselves (if we make them with enough care), and it therefore makes sense to have an easier way for my agents to access my publicly available thoughts (and private ones when appropriate in my private [[blog/Zettelkasten Introduction\|Zettelkasten]]). 
+I see agents as being extensions of ourselves (if we make them with enough care), and it therefore makes sense to have an easier way for my agents to access my publicly available thoughts (and private ones when appropriate in my private [[blog/Zettelkasten Introduction\|Zettelkasten]]).
 
 This idea is supported by the use of progressive disclosure to provide the optimal-sized pieces of context to answer specific, focused questions or ideas, without overloading the agent with unnecessary rot. I've settled on a max limit of 300 words (≈400 tokens). This works for me for the following reasons.
 
@@ -13,5 +13,3 @@ This idea is supported by the use of progressive disclosure to provide the optim
 2. 400 tokens fall in the [optimal range](https://arxiv.org/html/2505.21700v2) between smaller chunks suitable for fact-based queries and longer chunks better suited for providing complete thoughts and summarizing concepts.
 
 *Note.* This is a guideline, not a hard rule. I will happily break it when breaking it works better for either human or agent readers.
-
-

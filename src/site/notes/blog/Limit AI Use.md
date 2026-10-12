@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/limit-ai-use/","tags":["blogged","refactored","ai"],"created":"2025-08-26T19:43:40.061+01:00","updated":"2025-08-30T09:13:05.494+01:00"}
+{"dg-publish":true,"permalink":"/blog/limit-ai-use/","tags":["blogged","refactored","ai"],"created":"2025-08-26T19:43:40.061+01:00","updated":"2026-04-21T06:43:13.344+01:00","dg-note-properties":{"tags":["blogged","refactored","ai"]}}
 ---
 
 Limitations are good. If you find yourself using AI to fix every problem, it can be difficult to wean yourself off. You need immense coding skills you set yourself apart from AI, and you won't learn those relying on AI.

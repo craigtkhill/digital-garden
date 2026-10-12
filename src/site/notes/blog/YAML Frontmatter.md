@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/yaml-frontmatter/","tags":["blogged","refactored","zrt"],"created":"2025-08-26T19:48:20.462+01:00","updated":"2025-08-30T09:10:51.738+01:00"}
+{"dg-publish":true,"permalink":"/blog/yaml-frontmatter/","tags":["blogged","refactored","zrt"],"created":"2025-08-26T19:48:20.462+01:00","updated":"2025-08-30T09:10:51.738+01:00","dg-note-properties":{"tags":["blogged","refactored","zrt"],"links":"[[ZRT-YAML-FRONTMATTER]]"}}
 ---
 
 The first thing you need to know about `zrt` is that it uses yaml frontmatter to organize metadata about your notes.

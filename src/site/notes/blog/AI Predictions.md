@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/ai-predictions/","tags":["refactored","ai","prediction","blogged"],"created":"2026-02-23T07:47:27.326+00:00","updated":"2026-02-23T08:02:43.470+00:00"}
+{"dg-publish":true,"permalink":"/blog/ai-predictions/","tags":["refactored","ai","prediction","blogged"],"created":"2026-02-23T07:47:27.326+00:00","updated":"2026-04-21T06:43:13.522+01:00","dg-note-properties":{"tags":["refactored","ai","prediction","blogged"]}}
 ---
 
 The following predictions are graded on Intelligence Community Directive (ICD) 203 standard.
